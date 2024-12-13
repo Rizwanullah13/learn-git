@@ -12,3 +12,5 @@
 1. create a new branch `git switch -c [branch-name]`
 2. switch between branches `git switch [branch-name]`
 3. merge a branch into current branch `git merge [branch-name]`
+
+## Pull Request

@@ -14,3 +14,4 @@
 3. merge a branch into current branch `git merge [branch-name]`
 
 ## Pull Request
+1. Pull request ` git pull [Branch-name]`

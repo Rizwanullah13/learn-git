@@ -15,3 +15,4 @@
 
 ## Pull Request
 1. Pull request ` git pull [Branch-name]`
+2. Fetch request `git fetch`
